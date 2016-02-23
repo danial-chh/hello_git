@@ -105,5 +105,5 @@ int main()
 
 	list_show();
 
-	return 0;
+	return 1;
 }
