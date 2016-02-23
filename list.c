@@ -94,7 +94,7 @@ int main()
 {
 	int i;
 	list_create();
-	for(i = 0;i < 10;i++)
+	for(i = 0;i < 20;i++)
 	{
 		list_add(i);
 	}
